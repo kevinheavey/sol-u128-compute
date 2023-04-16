@@ -1,24 +1,24 @@
 Streaming transaction logs mentioning Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS. Confirmed commitment
-Transaction executed in slot 4:
-  Signature: 4Kkmq7v36xZ3upP2wHktg5UaLaEbyhQktQgHkMsmoCvDZGRtenoSfkRPCdd9Xr3ZD9u92ygoaYwRXqMN8LcCjh1A
+Transaction executed in slot 3:
+  Signature: 3fMktKbt2TLQSeri8qdFGi3v5vroXyk2xaykUBwwAb1ognYwUDr5aP1f4ggwmTQgrywJigL4bcEpaVYJDJP9SkjM
   Status: Ok
   Log Messages:
     Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS invoke [1]
     Program log: Instruction: Initialize
-    Program consumption: 199622 units remaining
-    Program consumption: 199521 units remaining
-    Program consumption: 199420 units remaining
-    Program consumption: 199319 units remaining
-    Program consumption: 199218 units remaining
-    Program consumption: 199117 units remaining
-    Program consumption: 199016 units remaining
-    Program consumption: 198915 units remaining
-    Program consumption: 198814 units remaining
-    Program consumption: 198713 units remaining
-    Program consumption: 197082 units remaining
-    Program consumption: 196979 units remaining
-    Program consumption: 196781 units remaining
-    Program consumption: 196677 units remaining
-    Program consumption: 195894 units remaining
-    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS consumed 4149 of 200000 compute units
+    Program consumption: 199633 units remaining
+    Program consumption: 199532 units remaining
+    Program consumption: 199431 units remaining
+    Program consumption: 199330 units remaining
+    Program consumption: 199229 units remaining
+    Program consumption: 199128 units remaining
+    Program consumption: 199027 units remaining
+    Program consumption: 198926 units remaining
+    Program consumption: 198825 units remaining
+    Program consumption: 198724 units remaining
+    Program consumption: 197093 units remaining
+    Program consumption: 196990 units remaining
+    Program consumption: 196792 units remaining
+    Program consumption: 196688 units remaining
+    Program consumption: 196284 units remaining
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS consumed 3759 of 200000 compute units
     Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS success
