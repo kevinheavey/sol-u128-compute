@@ -1,0 +1,24 @@
+Streaming transaction logs mentioning Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS. Confirmed commitment
+Transaction executed in slot 4:
+  Signature: 4Kkmq7v36xZ3upP2wHktg5UaLaEbyhQktQgHkMsmoCvDZGRtenoSfkRPCdd9Xr3ZD9u92ygoaYwRXqMN8LcCjh1A
+  Status: Ok
+  Log Messages:
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS invoke [1]
+    Program log: Instruction: Initialize
+    Program consumption: 199622 units remaining
+    Program consumption: 199521 units remaining
+    Program consumption: 199420 units remaining
+    Program consumption: 199319 units remaining
+    Program consumption: 199218 units remaining
+    Program consumption: 199117 units remaining
+    Program consumption: 199016 units remaining
+    Program consumption: 198915 units remaining
+    Program consumption: 198814 units remaining
+    Program consumption: 198713 units remaining
+    Program consumption: 197082 units remaining
+    Program consumption: 196979 units remaining
+    Program consumption: 196781 units remaining
+    Program consumption: 196677 units remaining
+    Program consumption: 195894 units remaining
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS consumed 4149 of 200000 compute units
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS success
